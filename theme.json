@@ -46,7 +46,7 @@
         "REDESIGN_CHANNEL_NAME_TEXT": ["#FBFBFB"],
         "CHANNELS_DEFAULT": ["#c8c8c8"],
         "CHANNEL_ICON": ["#8961ba"],
-        "TEXT_PRIMARY": ["#FBFBFB"],
+        "TEXT_PRIMARY": ["#00FF00"],
         "TEXT_LINK": ["#d261d8"],
         "THREAD_CHANNEL_SPINE": ["#955ac4"]
     },
