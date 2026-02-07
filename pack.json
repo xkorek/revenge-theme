@@ -1,0 +1,21 @@
+{
+  "family": "Roboto",
+  "css": "https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap",
+  "license": "Apache-2.0",     // check the actual license on the font page
+  "files": [
+    {
+      "style": "normal",
+      "weight": 400,
+      "format": "woff2",
+      "url": "https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.woff2",
+      "filename": "roboto-v29-latin-400.woff2"
+    },
+    {
+      "style": "normal",
+      "weight": 700,
+      "format": "woff2",
+      "url": "https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc-.woff2",
+      "filename": "roboto-v29-latin-700.woff2"
+    }
+  ]
+}
