@@ -1,7 +1,7 @@
 {
   "family": "Roboto",
   "css": "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
-  "license": "Apache-2.0",     // check the actual license on the font page
+  "license": "Apache-2.0",
   "files": [
     {
       "style": "normal",
