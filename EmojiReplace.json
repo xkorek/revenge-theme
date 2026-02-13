@@ -1,0 +1,17 @@
+{
+  "name": "EmojiReplace (Vendetta)",
+  "description": "Replaces Discord's emojis with emojis from a provider (Apple, Facebook, Google...). Converted from DevilBro's BetterDiscord theme. Swap the provider name inside the @import URL (case-sensitive).",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "necromancer",
+      "id": "278543574059057154"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {},
+  "rawColors": {},
+  "plus": {},
+  "background": {},
+  "css": "/*\n * @name EmojiReplace\n * @description Replaces Discord's Emojis with Emojis of a different Provider (Apple, Facebook...)\n * @author DevilBro\n * @version 1.0.0\n * @authorId 278543574059057154\n * @invite Jx3TjNS\n * @donate https://www.paypal.me/MircoWittrien\n * @patreon https://www.patreon.com/MircoWittrien\n * @website https://mwittrien.github.io/\n * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/EmojiReplace/\n * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/EmojiReplace.theme.css\n */\n\n/*\n\t!!READ THIS!!\n\t\n\tThis theme lets you swap the default emojis of discord with the emojis of a provider of your choice.\n\tTo change the provider simply swap the marked word in the import url down below with a supported provider listed below.\n\tThe name of the provider is CASE SENSITIVE, meaning you have to write it exactly like it's written below.\n\tCorrect: Apple\n\tFalse: apple, APPLE, aPpLe\n\n\tSupported Providers:\n\t\t→ Apple\n\t\t→ BlobMoji\n\t\t→ Facebook\n\t\t→ Google\n\t\t→ Huawei\n\t\t→ JoyPixels\n\t\t→ Microsoft\n\t\t→ Microsoft-3D\n\t\t→ OpenMoji\n\t\t→ Samsung\n\t\t→ Samsung-Old\n\t\t→ Toss\n\t\t→ WhatsApp\n*/\n\n/*                                            REPLACE THIS           */\n/*                                              ↓↓↓↓↓            */\n@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css);\n/*                                              ↑↑↑↑↑              */\n/*                                            REPLACE THIS           */"
+}
