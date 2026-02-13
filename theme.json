@@ -106,7 +106,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://github.com/xkorek/revenge-theme/blob/main/crimsonveilbg.png",
+        "url": "https://raw.githubusercontent.com/xkorek/revenge-theme/refs/heads/main/crimsonveilbg.png",
         "alpha": 0.4
     },
     "spec": 2
